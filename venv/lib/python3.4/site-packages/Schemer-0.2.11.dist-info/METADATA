@@ -1,0 +1,14 @@
+Metadata-Version: 2.0
+Name: Schemer
+Version: 0.2.11
+Summary: Powerful schema-based validation of Python dicts
+Home-page: http://github.com/gamechanger/schemer
+Author: Tom Leach
+Author-email: tom@gc.io
+License: BSD
+Keywords: validation schema dict list
+Platform: UNKNOWN
+
+Schemer allows users to declare schemas for Python dicts and lists and then validate actual dicts and lists against those schemas.
+
+
